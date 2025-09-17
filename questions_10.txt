@@ -1,0 +1,22 @@
+10 Tableau Questions
+
+Q1. How does age influence the number of books read annually?
+
+Q2. Do men and women differ in their reading habits (average books read)?
+
+Q3. What is the relationship between education level and number of books read?
+
+Q4. Does higher income correlate with reading more books?
+
+Q5. Which type of books are most preferred – printed, e-books, or audiobooks?
+
+Q6. What is the distribution of people who purchase books vs borrow them (last read book source)?
+
+Q7. How does employment status affect reading frequency?
+
+Q8. Do people who read newspapers daily also read more books than those who don’t?
+
+Q9. Is there a connection between magazine/journal reading and book reading habits?
+
+Q10. Which demographic (age, sex, education, income) shows the strongest preference for e-books vs printed books vs audiobooks?
+
