@@ -14,9 +14,9 @@ Q6. What is the distribution of people who purchase books vs borrow them (last r
 
 Q7. How does employment status affect reading frequency?
 
-Q8. Do people who read newspapers daily also read more books than those who don’t?
+Q8. Do people who read newspapers/journals/magazines also read more books than those who don’t?
 
-Q9. Is there a connection between magazine/journal reading and book reading habits?
+Q9. Is there a connection between marital status and race on the amount of books read anually?
 
-Q10. Which demographic (age, sex, education, income) shows the strongest preference for e-books vs printed books vs audiobooks?
+Q10. Which demographic (sex, education, income) shows the strongest preference for e-books vs printed books vs audiobooks across ages?
 
